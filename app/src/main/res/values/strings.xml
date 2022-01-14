@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Secretariat_mobile</string>
+    <string name="uczen">Uczeń</string>
+    <string name="przejdz_do_nauczycieli">Przejdź do Nauczycieli</string>
+</resources>
